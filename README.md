@@ -110,3 +110,6 @@ Execute the program
 # OUPUT
 ![github logo](Output1.png)
 ![github logo](Outupt.png)
+
+# RESULT
+Thus, a simple webpage is designed to display my timetable.
